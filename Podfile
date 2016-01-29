@@ -1,6 +1,6 @@
 source 'https://github.com/CocoaPods/Specs.git'
 
-platform :ios, '6.0'
+platform :ios, '8.1'
 
 target :NocillaTests, :exclusive => true do
    inhibit_all_warnings!
